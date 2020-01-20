@@ -1,3 +1,4 @@
-# MobilBankaUygulamasi
-Mobil Banka Uygulaması
-MSSQL ve React Native ile geliştirilmiştir.
+# Mobil Banka Uygulaması<br>
+## Kullanılan Teknolojiler<br>
+- MSSQL <br>
+- React Native ile geliştirilmiştir.<br>
